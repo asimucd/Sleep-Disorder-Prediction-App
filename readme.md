@@ -8,7 +8,7 @@ This project is a **Flask-based web application** that predicts sleep disorders 
 
 Try the deployed app here: 
 
-👉 [http://[<your-ec2-public-ip>](http://ec2-18-116-85-249.us-east-2.compute.amazonaws.com/):8080](http://[<your-ec2-public-ip>](http://ec2-18-116-85-249.us-east-2.compute.amazonaws.com/):8080)
+👉 [Sleep Disorder Prediction App](http://ec2-18-116-85-249.us-east-2.compute.amazonaws.com:8080)
 
 ---
 
