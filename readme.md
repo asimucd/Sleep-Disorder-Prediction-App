@@ -4,6 +4,14 @@ This project is a **Flask-based web application** that predicts sleep disorders 
 
 ---
 
+## 🌐 Live Demo
+
+Try the deployed app here: 
+
+👉 [http://[<your-ec2-public-ip>](http://ec2-18-116-85-249.us-east-2.compute.amazonaws.com/):8080](http://[<your-ec2-public-ip>](http://ec2-18-116-85-249.us-east-2.compute.amazonaws.com/):8080)
+
+---
+
 ## 📊 Overview
 
 The model uses user inputs like age, BMI, sleep duration, stress level, blood pressure, and other lifestyle factors to predict whether a person is likely to have:
